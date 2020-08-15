@@ -23,10 +23,19 @@ div.content {
   margin-bottom: 8px;
 }
 
+div.data-img{
+  padding: 8px;
+  height: 96%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  vertical-align: middle;
+}
+
 /* On screens that are less than 768px wide, shift the content back to the left
 and adjust the navbar */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   div.content {margin-left: 0;}
   div.content {margin-top: 8px;}
   .logo-style {font-size: 28px; padding: 2px;}
