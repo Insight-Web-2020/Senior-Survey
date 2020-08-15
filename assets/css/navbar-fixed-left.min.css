@@ -1,16 +1,11 @@
 body{
-	padding-top:90px
+	padding-top:90px;
 }
 
 @media (min-width:768px){
 	body{padding-top:4px}
 }
 
-/*
-@media (min-width:768px){
-	body{margin-left:232px}
-}
-*/
 
 .navbar.fixed-left{
 	position:fixed;
