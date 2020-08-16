@@ -31,6 +31,14 @@ div.data-img{
   vertical-align: middle;
 }
 
+div.data-text{
+  padding: 8px;
+  height: 96%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 /* On screens that are less than 768px wide, shift the content back to the left
 and adjust the navbar */
 
