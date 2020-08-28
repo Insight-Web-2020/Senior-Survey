@@ -2,7 +2,8 @@
 
 .btn-style {
   background-color: #111;
-  color: #818181;
+  color: white;
+  margin: 4pt;
 } 
 
 .logo-style {
@@ -11,6 +12,18 @@
   font-size: 80px;
   transition: 0.3s;
   margin: 0 auto 0 auto;
+}
+
+/*paragraph spacing modifications*/
+
+h4{
+  margin-top: 8px;
+  margin-bottom: 18px;
+}
+
+p {
+  margin-top: 6px;
+  margin-bottom: 12px;
 }
 
 /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
