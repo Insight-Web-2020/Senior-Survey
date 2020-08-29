@@ -16,6 +16,11 @@
 
 /*paragraph spacing modifications*/
 
+h3{
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
 h4{
   margin-top: 8px;
   margin-bottom: 18px;
